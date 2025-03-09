@@ -27,13 +27,7 @@ DL-from-scratch-3 책을 기반으로 딥러닝을 처음부터 구현하며 학
 ---
 
 ## 📚 **교재**
-- [밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3)](https://www.oreilly.co.jp/books/9784873119766/)
+- [밑바닥부터 시작하는 딥러닝 3 (Deep Learning from Scratch 3)]
 
 ---
 
-## ⚡ **설치 및 실행 방법**
-### 1️⃣ **필요 패키지 설치**
-```bash
-git clone https://github.com/JsuccessJ/DL-from-scratch-3.git
-cd DL-from-scratch-3
-pip install -r requirements.txt
